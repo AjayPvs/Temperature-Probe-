@@ -30,13 +30,23 @@ Knowledge of file management in the IAR Embedded Workbench IDE.
 
 Files in IAR Embedded Workbench IDE:
 average.h: Header file for averaging functions.
+
 fonts.c: File for font handling.
+
 KeyboardHoldRepeat.c and KeyboardHoldRepeat.h: Files related to keyboard input handling.
+
 main.c and main.h: Main application files.
+
 serial_user.c: File for serial communication.
+
 ssd1306.c: File for controlling the SSD1306 OLED display.
+
 stdint.h: Read-only file for standard integer types.
+
 stm32g0xx_hal.c: HAL (Hardware Abstraction Layer) file for STM32G0xx series microcontrollers.
+
 Various files related to HAL configuration, interrupt handling (stm32g0xx_hal_adc.h, stm32g0xx_hal_gpio.h, stm32g0xx_hal_i2c.c, stm32g0xx_hal_msp.c, stm32g0xx_it.c).
+
 Files related to thermistor and thermocouple handling (Thermistor.c, Thermistor.h, Thermocouple.c, Thermocouple.h).
+
 Files related to user experience management (ux_manager.c, ux_manager.h).
