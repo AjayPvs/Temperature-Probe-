@@ -28,8 +28,8 @@ Familiarity with keywords like typedef, #define, extern, #include.
 Understanding the difference between "." and "->" in C.
 Knowledge of file management in the IAR Embedded Workbench IDE.
 
-Files in IAR Embedded Workbench IDE:
-average.h: Header file for averaging functions.
+
+Files in IAR Embedded Workbench IDE: average.h: Header file for averaging functions.
 
 fonts.c: File for font handling.
 
